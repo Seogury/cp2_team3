@@ -44,7 +44,7 @@
     
     columns : 시간, 행동, 상품id, 카테고리id, 카테고리 code, 브랜드, 가격, 유저 id, 세션
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ad2af59-0840-44ab-98c1-5ea32b77d0dd/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/97610185/193975681-9171d534-b931-4dc5-886e-c88cd91dde49.png)
     
 
 1. **전처리** 
